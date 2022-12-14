@@ -1,0 +1,6 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+discord==1.7.3
+discord.py @ git+https://github.com/Rapptz/discord.py@a592361f29ba31f08f43fa60ed3685905e5da329
+Flask==2.2.2
+requests==2.27.1
